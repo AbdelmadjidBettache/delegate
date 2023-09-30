@@ -1,0 +1,7 @@
+C:\Users\Bmadj\source\repos\C #2\LesDelegate\LesDelegate\bin\Debug\LesDelegate.exe.config
+C:\Users\Bmadj\source\repos\C #2\LesDelegate\LesDelegate\bin\Debug\LesDelegate.exe
+C:\Users\Bmadj\source\repos\C #2\LesDelegate\LesDelegate\bin\Debug\LesDelegate.pdb
+C:\Users\Bmadj\source\repos\C #2\LesDelegate\LesDelegate\obj\Debug\LesDelegate.csproj.AssemblyReference.cache
+C:\Users\Bmadj\source\repos\C #2\LesDelegate\LesDelegate\obj\Debug\LesDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Bmadj\source\repos\C #2\LesDelegate\LesDelegate\obj\Debug\LesDelegate.exe
+C:\Users\Bmadj\source\repos\C #2\LesDelegate\LesDelegate\obj\Debug\LesDelegate.pdb
